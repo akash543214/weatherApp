@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+.card{
+    margin: 10px;
+}
+
+.search-container{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+  
+}
